@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.h {
+  font-size: 10px;
+  font-weight: bold;
+}
+.r {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.imgg {
+  height: 10px;
+}
+.ab {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

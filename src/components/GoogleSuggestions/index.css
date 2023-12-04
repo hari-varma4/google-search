@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.im {
+  height: 100px;
+  text-align: center;
+}
+.con2 {
+  background-color: white;
+  width: 500px;
+  background-size: cover;
+  margin: 10px;
+  padding: 10px;
+
+  border: solid #bfbfbf;
+  border-radius: 10px;
+  box-shadow: 10px #bfbfbf;
+}
+.icon {
+  height: 20px;
+  margin-top: 9px;
+}
+.ii {
+  color: #bfbfbf;
+  border: none;
+  margin-left: 3px;
+  width: 300px;
+}
+.ro {
+  display: flex;
+  flex-direction: row;
+}
+.u {
+  display: flex;
+  flex-direction: column;
+
+  list-style-type: none;
+}
+.conn {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  margin: 10px;
+}
